@@ -1,0 +1,24 @@
+h1 {
+    color: red; 
+    background-color: aqua;
+}
+
+.parrafos {
+    color: blue;
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#parrafocentral {
+    color: black;
+    font-size: 28px;
+    font-style: italic;
+}
+
+p>a{
+    color: brown;
+}
+
+a:hover {
+    color: yellowgreen;
+}
