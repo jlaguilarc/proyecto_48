@@ -1,0 +1,18 @@
+a {
+    color: red;
+}
+
+#azul {
+    color: blue;
+    background-color: bisque;
+    font-weight: bold;
+}
+
+.especial {
+    background-color: black;
+    color: yellow;
+}
+
+#primero {
+    color: blue;
+}
